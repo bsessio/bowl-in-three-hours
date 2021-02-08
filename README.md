@@ -1,4 +1,4 @@
-# The Bowling ~~Green Massacre~~ Game Challenge
+# The Bowling Game Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React).
 
