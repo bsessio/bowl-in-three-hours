@@ -1,3 +1,5 @@
+/* TODO: Better styling. */
+
 .App {
   text-align: center;
 }
@@ -5,12 +7,6 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -35,4 +31,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.bHFrameScore, .bHFrameGrid, .bHGrid, .bHFrame {
+	border: 1px solid black;
+}
+
+.bHPlayer {
+	width: 90%;
+}
+
+div.ui.small.basic.modal.transition.visible.active div.content p {
+	text-align: center;
+}
+
+div.ui.small.basic.modal.transition.visible.active button.ui.green.basic.inverted.button {
+	margin: 0% calc(50% - 39.1px);
 }
